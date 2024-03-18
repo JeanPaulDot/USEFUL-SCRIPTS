@@ -18,5 +18,6 @@
   ],
   "ResourceOrderSettings":[
     {"name":"O_Dodec","order":1,"path":"objects/O_Dodec/O_Dodec.yy",},
+    {"name":"Shapes","order":1,"path":"scripts/Shapes/Shapes.yy",},
   ],
 }
