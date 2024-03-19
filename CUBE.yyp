@@ -34,7 +34,7 @@
   },
   "name":"CUBE",
   "resources":[
-    {"id":{"name":"O_Dodec","path":"objects/O_Dodec/O_Dodec.yy",},},
+    {"id":{"name":"O_Cube","path":"objects/O_Cube/O_Cube.yy",},},
     {"id":{"name":"O_Shape_Manager","path":"objects/O_Shape_Manager/O_Shape_Manager.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Scr_Functions","path":"scripts/Scr_Functions/Scr_Functions.yy",},},

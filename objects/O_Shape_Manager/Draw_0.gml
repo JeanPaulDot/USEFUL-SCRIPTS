@@ -19,5 +19,5 @@ for (var i = 0; i < num_shapes; i++) {
 
     // Draw the shape at the calculated position and scale
     draw_set_color(i == selected_shape ? c_yellow : c_white);
-    draw_3d_shape(all_shapes[i][0], all_shapes[i][1], shape_x, shape_y, (shape_size * shape_scale), (shape_size * shape_scale), rotate_speed);
+    draw_3d_shape(all_shapes[i][0], all_shapes[i][1], shape_x * (i*0.5), shape_y, (shape_size * shape_scale), (shape_size * shape_scale), rotate_speed*(0.5*i));
 }

@@ -17,7 +17,7 @@
     {"name":"Tile sets","order":2,"path":"folders/Tile sets.yy",},
   ],
   "ResourceOrderSettings":[
-    {"name":"O_Dodec","order":1,"path":"objects/O_Dodec/O_Dodec.yy",},
+    {"name":"O_Cube","order":1,"path":"objects/O_Cube/O_Cube.yy",},
     {"name":"Shapes","order":1,"path":"scripts/Shapes/Shapes.yy",},
   ],
 }
