@@ -17,10 +17,11 @@
     {"name":"Tile sets","order":2,"path":"folders/Tile sets.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"O_Carousel","order":4,"path":"objects/O_Carousel/O_Carousel.yy",},
     {"name":"O_Cube","order":1,"path":"objects/O_Cube/O_Cube.yy",},
+    {"name":"O_Icosahedron","order":5,"path":"objects/O_Icosahedron/O_Icosahedron.yy",},
     {"name":"O_Pyramide","order":2,"path":"objects/O_Pyramide/O_Pyramide.yy",},
     {"name":"O_Tetra","order":3,"path":"objects/O_Tetra/O_Tetra.yy",},
-    {"name":"O_Carousel","order":4,"path":"objects/O_Carousel/O_Carousel.yy",},
     {"name":"Shapes","order":1,"path":"scripts/Shapes/Shapes.yy",},
   ],
 }
