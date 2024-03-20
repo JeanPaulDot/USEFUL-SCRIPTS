@@ -12,7 +12,7 @@ all_shapes = [
 ];
 
 // Shape properties
-shape_size = 100;
+shape_size = 50;
 shape_color = c_white;
 rotate_speed = 0.05;
 

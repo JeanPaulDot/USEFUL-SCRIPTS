@@ -47,7 +47,7 @@ tetrahedron_edges = [
     0, 1, 0, 2, 0, 3, 1, 2, 2, 3, 3, 1
 ];
 #endregion
-/*
+
 #region Octahedron
 
 

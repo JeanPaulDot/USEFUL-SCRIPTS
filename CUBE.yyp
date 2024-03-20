@@ -35,7 +35,10 @@
   "name":"CUBE",
   "resources":[
     {"id":{"name":"O_Cube","path":"objects/O_Cube/O_Cube.yy",},},
+    {"id":{"name":"O_Pyramide","path":"objects/O_Pyramide/O_Pyramide.yy",},},
     {"id":{"name":"O_Shape_Manager","path":"objects/O_Shape_Manager/O_Shape_Manager.yy",},},
+    {"id":{"name":"O_Tetra","path":"objects/O_Tetra/O_Tetra.yy",},},
+    {"id":{"name":"O_Carousel","path":"objects/O_Carousel/O_Carousel.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Scr_Functions","path":"scripts/Scr_Functions/Scr_Functions.yy",},},
     {"id":{"name":"Shapes","path":"scripts/Shapes/Shapes.yy",},},
